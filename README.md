@@ -5,7 +5,12 @@
 💸 *Data. Visuals. Impact.* 💸  
 ---
 
-![Finance Dashboard](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
+<div align="center">
+
+![Budget Dashboard](https://media.giphy.com/media/26xBukhgS0Z9U2mS4/giphy.gif)
+
+</div>
+
 
 > Een interactieve webapplicatie voor het volgen en visualiseren van de Duurzame Ontwikkelingsdoelen (SDGs).  
 > In dit project bouw je van de grond af een moderne web applicatie en leer je werken met professionele tools en technieken.
