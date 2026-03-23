@@ -10,12 +10,10 @@
 
 <div align="center">
 
-![BudgetBuddy Dashboard](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
-
-</div>
----
-
 ![BudgetBuddy Demo](public/demo.gif)
+</div>
+
+
 
 ---
 
