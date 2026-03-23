@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Finance Chart](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="600"/>
 
 </div>
 
