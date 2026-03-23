@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Budget Dashboard](https://media.giphy.com/media/26xBukhgS0Z9U2mS4/giphy.gif)
+![Finance Chart](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 </div>
 
