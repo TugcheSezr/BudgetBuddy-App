@@ -6,7 +6,7 @@
 
 ---
 
-![Money GIF](https://media.giphy.com/media/l0HFkA6omUyjVYqw8/giphy.gif)
+![Money Rain](https://media.giphy.com/media/3o6gDWzmAzrpi5DQU8/giphy.gif)
 
 </div>
 
@@ -85,11 +85,9 @@ overzicht krijgen van hun budget
 composer install
 symfony serve
 🎉 Klaar om te starten?
-
 Clone de repo
 Volg de installatie stappen
 Start de server
-
 Begin met ontwikkelen 🚀
 <div align="center">
 
