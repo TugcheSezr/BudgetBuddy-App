@@ -1,12 +1,12 @@
 <div align="center">
 
-# 💰✨ BudgetBuddy App ✨💰  
+# 💰✨ BudgetBuddy App ✨💰
 
-> Een eenvoudige en interactieve budgetbeheer-app waarmee gebruikers hun inkomsten en uitgaven kunnen bijhouden.  
+> Een eenvoudige en interactieve budgetbeheer-app waarmee gebruikers hun inkomsten en uitgaven kunnen bijhouden.
 
 ---
 
-![Budget Dashboard](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Money GIF](https://media.giphy.com/media/l0HFkA6omUyjVYqw8/giphy.gif)
 
 </div>
 
@@ -14,77 +14,86 @@
 
 ## 🎯 Wat ga je leren?
 
+Dit project laat je werken met een echte Symfony applicatie en backend logica.
+
 - Symfony CLI & project setup  
 - Composer dependency management  
-- Database configuratie & migrations  
-- Templates maken met Twig  
-- Basis PHP logica toepassen  
-- Input validatie & foutafhandeling  
-- Gebruiksvriendelijke budget dashboards bouwen  
+- Database configuratie  
+- Twig templates gebruiken  
+- PHP backend logica  
+- Werken met een echte applicatiestructuur  
 
 ---
 
-## 🚀 Project opstarten
+## ⚙️ Benodigdheden
+
+Zorg dat je het volgende hebt geïnstalleerd:
+
+- Composer  
+- Scoop  
+- Symfony CLI  
+
+---
+
+## 🚀 Installatie
 
 ### 1. Clone de repository
 ```bash
 git clone https://github.com/TugcheSezr/BudgetBuddy-App.git
 cd BudgetBuddy-App
+2. Open project
 
-2. Environment instellen
+Open Powershell en ga naar de map van de repository
+
+3. Environment instellen
 cp .env .env.local
 
-# Pas DATABASE_URL aan indien nodig
-3. Database aanmaken
+Pas daarna de juiste DATABASE_URL aan
+(en haal het # teken ervoor weg)
 
-Maak de database via PHPMyAdmin of Symfony CLI
+4. Database aanmaken
 
-4. Dependencies installeren
+Maak de database aan die je gekozen hebt:
+
+via PHPMyAdmin
+of via Symfony command
+5. Dependencies installeren
 composer install
-
-5. Server starten
+6. Server starten
 symfony serve
 
-🌐 Open: http://localhost:8000
+🌐 Open daarna: http://localhost:8000
 
 📁 Projectstructuur
-BudgetBuddy-App/
-├── assets/
-├── bin/
-├── config/
-├── migrations/
-├── public/
-├── src/
-├── templates/
-├── tests/
-└── translations/
+assets/
+bin/
+config/
+migrations/
+public/
+src/
+templates/
+tests/
+translations/
+📊 Over het project
 
-💡 Belangrijke concepten
+Dit project is in groepsverband ontwikkeld en bestaat uit een eenvoudige budgetbeheer-app waarmee gebruikers:
 
-⚡ Symfony
-CLI commands
-Routing & controllers
-Services & dependency injection
-
-🧠 PHP
-Classes & OOP
-Exception handling
-
-🎨 Twig
-Templates
-Dynamische content
-UI rendering
-
+inkomsten kunnen bijhouden
+uitgaven kunnen registreren
+overzicht krijgen van hun budget
 🛠️ Nuttige commando’s
 composer install
 symfony serve
-php bin/console doctrine:database:create
-php bin/console doctrine:migrations:migrate
-
 🎉 Klaar om te starten?
 
-🚀 Start met installatie stappen
-📂 Open templates/
-💻 Bouw stap voor stap verder
+Clone de repo
+Volg de installatie stappen
+Start de server
 
-Veel succes 💫
+Begin met ontwikkelen 🚀
+<div align="center">
+
+💫 TugcheSezr
+🌱 Always learning. Always building. Always improving.
+
+</div> ```
