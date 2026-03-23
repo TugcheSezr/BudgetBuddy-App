@@ -5,16 +5,14 @@
 💸 *Data. Visuals. Impact.* 💸  
 ---
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="600"/>
-
-</div>
-
-
 > Een interactieve webapplicatie voor het volgen en visualiseren van de Duurzame Ontwikkelingsdoelen (SDGs).  
 > In dit project bouw je van de grond af een moderne web applicatie en leer je werken met professionele tools en technieken.
 
+<div align="center">
+
+![BudgetBuddy Dashboard](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+
+</div>
 ---
 
 ![BudgetBuddy Demo](public/demo.gif)
