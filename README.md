@@ -3,8 +3,9 @@
 # 🌍✨ SDG Dashboard - Jouw Project ✨🌍
 
 💸 *Data. Visuals. Impact.* 💸  
+---
 
-![Money Dashboard](https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif)
+![Budget Dashboard](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
 > Een interactieve webapplicatie voor het volgen en visualiseren van de Duurzame Ontwikkelingsdoelen (SDGs).  
 > In dit project bouw je van de grond af een moderne web applicatie en leer je werken met professionele tools en technieken.
