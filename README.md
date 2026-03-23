@@ -11,6 +11,10 @@
 
 ---
 
+![BudgetBuddy Demo](public/demo.gif)
+
+---
+
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-UI-blue?style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-SafeCode-blue?style=for-the-badge)
