@@ -1,19 +1,12 @@
 <div align="center">
 
-# 🌍✨ SDG Dashboard - Jouw Project ✨🌍
+# 🌍✨ SDG Dashboard ✨🌍
 
 💸 *Data. Visuals. Impact.* 💸  
 ---
 
 > Een interactieve webapplicatie voor het volgen en visualiseren van de Duurzame Ontwikkelingsdoelen (SDGs).  
 > In dit project bouw je van de grond af een moderne web applicatie en leer je werken met professionele tools en technieken.
-
-<div align="center">
-
-![BudgetBuddy Demo](public/demo.gif)
-</div>
-
-
 
 ---
 
