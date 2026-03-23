@@ -6,7 +6,7 @@
 
 ---
 
-![BudgetBuddy Demo](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Budget Dashboard](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 </div>
 
@@ -30,8 +30,10 @@
 ```bash
 git clone https://github.com/TugcheSezr/BudgetBuddy-App.git
 cd BudgetBuddy-App
+
 2. Environment instellen
 cp .env .env.local
+
 # Pas DATABASE_URL aan indien nodig
 3. Database aanmaken
 
@@ -39,6 +41,7 @@ Maak de database via PHPMyAdmin of Symfony CLI
 
 4. Dependencies installeren
 composer install
+
 5. Server starten
 symfony serve
 
@@ -55,23 +58,29 @@ BudgetBuddy-App/
 ├── templates/
 ├── tests/
 └── translations/
+
 💡 Belangrijke concepten
+
 ⚡ Symfony
 CLI commands
 Routing & controllers
 Services & dependency injection
+
 🧠 PHP
 Classes & OOP
 Exception handling
+
 🎨 Twig
 Templates
 Dynamische content
 UI rendering
+
 🛠️ Nuttige commando’s
 composer install
 symfony serve
 php bin/console doctrine:database:create
 php bin/console doctrine:migrations:migrate
+
 🎉 Klaar om te starten?
 
 🚀 Start met installatie stappen
