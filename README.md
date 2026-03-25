@@ -6,6 +6,7 @@
 ---
 
 👩‍💻 Gemaakt door: Tugche Sezer (met een groepje)
+
 💼 Mijn bijdrage: Ik heb gewerkt aan de frontend en het bouwen van componenten en API-integratie binnen het project.
 
 > Een interactieve webapplicatie die ik heb ontwikkeld tijdens mijn opleiding om de Duurzame Ontwikkelingsdoelen (SDG’s) te visualiseren met moderne webtechnieken.
